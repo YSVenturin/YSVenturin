@@ -2,44 +2,66 @@
 
 **Computer Science Student | Backend Development | Java & Spring Boot**
 
-I'm a Computer Science undergraduate at the University of Caxias do Sul (UCS), Brazil, with a focus on backend development.
+I'm a Computer Science undergraduate at the **University of Caxias do Sul (UCS), Brazil**, with an expected graduation in **2027**.
 
-I enjoy building applications, designing REST APIs, working with relational databases, and solving problems through software.
+My main focus is **backend development with Java and Spring Boot**, including REST APIs, relational databases, and object-oriented programming.
 
-Currently seeking internship and junior opportunities in software development, especially backend roles.
+I enjoy building practical applications, solving technical problems, and continuously improving my software engineering skills.
+
+**Currently seeking internship and junior opportunities in software development, especially Java backend roles.**
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/yuriventurin/) | [GitHub](https://github.com/YSVenturin)
 
 ## Tech Stack
 
-**Backend:** Java, Spring Boot, Spring Data JPA, Spring Security, REST APIs, Python
+**Backend:** Java, Spring Boot, Spring Data JPA, REST APIs, Python
 
 **Databases:** PostgreSQL, SQL
 
-**Other languages:** C, C++, Python
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS
 
-**Tools:** Git, Maven, Docker (basic), Linux, Nginx
+**Other languages:** C, C++
+
+**Tools & Infrastructure:** Git, Maven, Linux, Nginx, Docker (basic)
 
 ## Featured Projects
 
 ### [Piccola Arte Atelier](https://github.com/YSVenturin/piccola-arte-atelier)
 
-Full-stack web application developed for an artisan business, featuring a product catalog, REST API, PostgreSQL database, and administrative functionality.
+**Java 21 · Spring Boot · PostgreSQL · React · TypeScript**
 
-Built with **Java 21, Spring Boot, React, TypeScript, and PostgreSQL**, and deployed on a Linux server.
+A full-stack web application developed for a real artisan business, featuring a responsive product catalog and administrative management.
 
-[Live Website](https://piccolaarteatelier.com.br) | [Source Code](https://github.com/YSVenturin/piccola-arte-atelier)
+- REST API built with Spring Boot and Spring Data JPA.
+- PostgreSQL database with relational data modeling.
+- Product, category, and image management.
+- Administrative authentication and protected operations.
+- Deployed on a Linux server with Nginx and HTTPS.
+
+**[Live Website](https://piccolaarteatelier.com.br) | [Repository](https://github.com/YSVenturin/piccola-arte-atelier)**
 
 ### [Chess System Java](https://github.com/YSVenturin/chess-system-java)
 
-Console-based chess application developed in Java, featuring object-oriented domain modeling, movement validation, checkmate detection, and special chess moves.
+**Java · Object-Oriented Programming**
 
-**Focus:** Object-Oriented Programming, domain logic, and exception handling.
+A console-based chess application featuring object-oriented domain modeling, movement validation, checkmate detection, and special chess moves.
+
+Developed as an educational project focused on **encapsulation, inheritance, polymorphism, exception handling, and game logic**.
+
+**[Repository & Demo](https://github.com/YSVenturin/chess-system-java)**
 
 ### [SDL2 2D Graphics Editor](https://github.com/YSVenturin/sdl2-2d-graphics-editor)
 
-Collaborative C++ project for drawing and manipulating 2D graphics using SDL2.
+**C++ · SDL2 · Computer Graphics**
 
-Implements algorithms such as Bresenham, Wu's antialiasing, Bézier curves, geometric transformations, and iterative flood fill.
+A collaborative 2D graphics editor developed in C++ using SDL2.
+
+Implements graphics algorithms including **Bresenham, Wu's antialiasing, Bézier curves, geometric transformations, and iterative flood fill**.
+
+**[Repository & Demo](https://github.com/YSVenturin/sdl2-2d-graphics-editor)**
 
 ## Currently Learning
 
-Improving my backend development skills, with a focus on automated testing, API design, software architecture, and Java/Spring Boot best practices.
+Deepening my knowledge of **Java and Spring Boot**, with a focus on automated testing, SQL, software architecture, API design, and backend development best practices.
